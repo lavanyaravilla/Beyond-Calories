@@ -8,4 +8,5 @@ Prepare a detailed report on how to implement .
 
 **As Data Science intern @ Felynn labs service** i had to come up with an project idea which uses data science and machine learning ,instead of DS/ML project idea.example :Diabetes Prediction model is a DS/ML project , Diabetes Prediction App is a Product idea
 
+ ** Beyond_Calories_DS_product idea** is the report with details on implementation.   
 
